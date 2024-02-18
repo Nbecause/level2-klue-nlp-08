@@ -24,10 +24,10 @@
 ## 팀원
 
 
-| exena | jsdysw | ye0ng1 | hyeming00 | arles1224 |
+| exena | jsdysw | Nbecause | hyeming00 | arles1224 |
 | --- | --- | --- | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/22702278?s=64&v=4" width="120" height="120"> | <img src="https://avatars.githubusercontent.com/u/76895949?s=64&v=4" width="120" height="120"> | <img src="https://avatars.githubusercontent.com/u/139039225?s=64&v=4" width="120" height="120"> | <img src="https://avatars.githubusercontent.com/u/105696374?v=4" width="120" height="120"> | <img src="https://avatars.githubusercontent.com/u/125326251?s=64&v=4" width="120" height="120"> |
-|[![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/afterthougt)](https://github.com/exena)|[![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/afterthougt)](https://github.com/jsdysw)|[![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/afterthougt)](https://github.com/ye0ng1)|[![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/afterthougt)](https://github.com/hyeming00)|[![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/afterthougt)](https://github.com/arles1224)|
+|[![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/afterthougt)](https://github.com/exena)|[![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/afterthougt)](https://github.com/jsdysw)|[![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/afterthougt)](https://github.com/Nbecause)|[![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/afterthougt)](https://github.com/hyeming00)|[![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/afterthougt)](https://github.com/arles1224)|
 
 ## 프로젝트에 사용된 툴
 ![Sponsorships](https://github.com/boostcampaitech6/level2-klue-nlp-08/assets/22702278/0cf934bf-c26c-4f8e-b6d0-852ed424c138)
